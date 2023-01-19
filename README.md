@@ -1,6 +1,6 @@
 - Howdy, I’m @NikkitheUser
-- I'm a Student @ California State University of Monterey Bay 
-- I’m currently learning C++, Java and Python
+- I'm a Graduate of California State University of Monterey Bay 
+- I’m currently learning C++, Java, Python and SQL
 
 
 <!---
